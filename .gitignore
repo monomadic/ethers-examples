@@ -75,6 +75,8 @@ web_modules/
 
 .stylelintcache
 
+bun.lockb
+
 # Microbundle cache
 
 .rpt2_cache/

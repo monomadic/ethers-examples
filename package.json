@@ -5,5 +5,8 @@
   "scripts": {},
   "devDependencies": {
     "bun-types": "^0.1.0"
+  },
+  "dependencies": {
+    "ethers": "^5.7.2"
   }
 }
