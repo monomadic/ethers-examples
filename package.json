@@ -1,0 +1,9 @@
+{
+  "name": "evm-examples",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {},
+  "devDependencies": {
+    "bun-types": "^0.1.0"
+  }
+}
