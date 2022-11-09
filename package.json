@@ -2,7 +2,9 @@
   "name": "evm-examples",
   "module": "index.ts",
   "type": "module",
-  "scripts": {},
+  "scripts": {
+    "build-contracts": "forge build"
+  },
   "devDependencies": {
     "bun-types": "^0.1.0"
   },
